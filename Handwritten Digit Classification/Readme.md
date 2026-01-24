@@ -4,6 +4,10 @@ This project implements a **Handwritten Digit Classification system** using an *
 It is part of my learning journey in **Deep Learning**, where I explored how neural networks are inspired by human neurons and how they learn patterns from data.
 
 The model is trained on the **MNIST dataset** and tested using **custom handwritten digit inputs** provided through a simple **Tkinter GUI**.
+<img width="618" height="699" alt="image" src="https://github.com/user-attachments/assets/66b35110-dcaa-4b5d-ac44-37d99875cf64" />
+<img width="578" height="705" alt="image" src="https://github.com/user-attachments/assets/34c68555-fdad-4a60-8098-a19a39a94573" />
+<img width="609" height="697" alt="image" src="https://github.com/user-attachments/assets/9dd7cc0d-02ba-40f6-ab10-279e6c93be33" />
+
 
 ---
 
