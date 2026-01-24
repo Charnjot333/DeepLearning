@@ -22,12 +22,12 @@ The model is trained on the **MNIST dataset** and tested using **custom handwrit
 <p align="center">
   <img width="200" height="200" src="https://github.com/user-attachments/assets/486dc3fb-6530-4576-b745-cb9537d1abb7" />
   <br>
-  <em>Figure 4: Training accuracy (incorrect predictions observed)</em>
+  <em>Figure 4:Wrong output</em>
 </p>
 <p align="center">
   <img width="200" height="200" src="https://github.com/user-attachments/assets/9d942ca0-127c-4809-94cb-82a4c17fcc66" />
   <br>
-  <em>Figure 5: Training loss curve</em>
+  <em>Figure 5: correct output</em>
 </p>
 
 ---
