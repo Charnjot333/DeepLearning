@@ -5,15 +5,25 @@ It is part of my learning journey in **Deep Learning**, where I explored how neu
 
 The model is trained on the **MNIST dataset** and tested using **custom handwritten digit inputs** provided through a simple **Tkinter GUI**.
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/66b35110-dcaa-4b5d-ac44-37d99875cf64" />
-*Figure 1: correct output*
+<br>
+*Figure 1: Correct output*
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/34c68555-fdad-4a60-8098-a19a39a94573" />
-*Figure 2: correct output*
+<br>
+*Figure 2: Correct output*
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9dd7cc0d-02ba-40f6-ab10-279e6c93be33" />
-*Figure 3: HWrong output*
+<br>
+*Figure 3: Wrong output*
+
 <img width="533" height="707" alt="image" src="https://github.com/user-attachments/assets/486dc3fb-6530-4576-b745-cb9537d1abb7" />
-*Figure 4: Wrong output*
+<br>
+*Figure 4: Training accuracy (incorrect predictions observed)*
+
 <img width="577" height="702" alt="image" src="https://github.com/user-attachments/assets/9d942ca0-127c-4809-94cb-82a4c17fcc66" />
-*Figure 5: correct output*
+<br>
+*Figure 5: Training loss curve*
+
 
 ---
 
