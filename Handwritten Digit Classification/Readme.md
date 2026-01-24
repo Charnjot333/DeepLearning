@@ -4,30 +4,26 @@ This project implements a **Handwritten Digit Classification system** using an *
 It is part of my learning journey in **Deep Learning**, where I explored how neural networks are inspired by human neurons and how they learn patterns from data.
 
 The model is trained on the **MNIST dataset** and tested using **custom handwritten digit inputs** provided through a simple **Tkinter GUI**.
+
 <p align="center">
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/66b35110-dcaa-4b5d-ac44-37d99875cf64" />
+  <img width="200" height="200" src="https://github.com/user-attachments/assets/34c68555-fdad-4a60-8098-a19a39a94573" />
   <br>
   <em>Figure 1: Correct output</em>
 </p>
 <p align="center">
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/34c68555-fdad-4a60-8098-a19a39a94573" />
-  <br>
-  <em>Figure 2: Correct output</em>
-</p>
-<p align="center">
   <img width="200" height="200" src="https://github.com/user-attachments/assets/9dd7cc0d-02ba-40f6-ab10-279e6c93be33" />
   <br>
-  <em>Figure 3: Wrong output</em>
+  <em>Figure 2: Wrong output</em>
 </p>
 <p align="center">
   <img width="200" height="200" src="https://github.com/user-attachments/assets/486dc3fb-6530-4576-b745-cb9537d1abb7" />
   <br>
-  <em>Figure 4:Wrong output</em>
+  <em>Figure 3:Wrong output</em>
 </p>
 <p align="center">
   <img width="200" height="200" src="https://github.com/user-attachments/assets/9d942ca0-127c-4809-94cb-82a4c17fcc66" />
   <br>
-  <em>Figure 5: correct output</em>
+  <em>Figure 4: correct output</em>
 </p>
 
 ---
