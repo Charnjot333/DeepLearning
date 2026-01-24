@@ -16,11 +16,11 @@ The model is trained on the **MNIST dataset** and tested using **custom handwrit
 <br>
 *Figure 3: Wrong output*
 
-<img width="533" height="707" alt="image" src="https://github.com/user-attachments/assets/486dc3fb-6530-4576-b745-cb9537d1abb7" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/486dc3fb-6530-4576-b745-cb9537d1abb7" />
 <br>
 *Figure 4: Training accuracy (incorrect predictions observed)*
 
-<img width="577" height="702" alt="image" src="https://github.com/user-attachments/assets/9d942ca0-127c-4809-94cb-82a4c17fcc66" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9d942ca0-127c-4809-94cb-82a4c17fcc66" />
 <br>
 *Figure 5: Training loss curve*
 
