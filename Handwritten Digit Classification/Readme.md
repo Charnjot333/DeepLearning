@@ -24,7 +24,6 @@ The model is trained on the **MNIST dataset** and tested using **custom handwrit
 <br>
 *Figure 5: Training loss curve*
 
-
 ---
 
 ## 📌 Project Overview
