@@ -92,5 +92,5 @@ This project helped me understand:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/Charnjot333/DeepLearning/tree/d3ca4b0709f8b6dce71cc159f23b0eb4974adc40/Handwritten%20Digit%20Classification>
 
